@@ -1,4 +1,4 @@
-qianjiahaodeMacBook-Pro:HowToDeployHTML qianjiahao$ git branch
+qianjiahaodeMacBook-Pro:Gaoship qianjiahao$ git branch
 * gh-pages
 
 qianjiahaodeMacBook-Pro:Gaoship qianjiahao$ git commit -a -m "first commit"
